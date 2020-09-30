@@ -6,7 +6,7 @@
 Criar um api
 
 - [] Iniciar o projeto `npm init -y`
-- [] Instalar as dependências `npm i express nodemon cors axios`
+- [] Instalar as dependências `npm i express nodemon cors axios lite-server`
 - [] Criar uma rota para acessar a API
 - [] Servir a API
 - [] Habilitar o CORS
